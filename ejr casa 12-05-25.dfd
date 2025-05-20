@@ -1,0 +1,132 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+6
+retiro
+6
+1
+4
+polo
+6
+retiro
+7
+0
+1
+34
+retiro mod 10000 = 0 and retiro >0
+4
+1
+17
+'retiro denegado'
+13
+4
+1
+18
+'ya puede retirar'
+7
+0
+1
+14
+retiro>=100000
+13
+6
+3
+1
+z
+18
+retiro  mod 100000
+1
+y
+18
+trunc(polo/100000)
+4
+polo
+1
+z
+4
+1
+47
+'Se le entregaran: ', y , ' billetes de 100000'
+13
+7
+0
+1
+13
+retiro>=50000
+13
+6
+3
+1
+z
+16
+retiro mod 50000
+1
+y
+18
+trunc(cacha/50000)
+4
+polo
+1
+z
+4
+1
+46
+'Se le entregaran: ', y , ' billetes de 50000'
+13
+7
+0
+1
+13
+retiro>=20000
+13
+6
+3
+1
+z
+17
+ retiro mod 20000
+1
+y
+17
+trunc(polo/20000)
+4
+polo
+1
+z
+4
+1
+46
+'Se le entregaran: ', y , ' billetes de 20000'
+13
+7
+0
+1
+13
+retiro>=10000
+13
+6
+3
+1
+z
+16
+retiro mod 10000
+1
+y
+17
+trunc(polo/10000)
+4
+polo
+1
+z
+4
+1
+46
+'Se le entregaran: ', y , ' billetes de 10000'
+13
+13
+1
