@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+' en las siguientes 6 ventanas, ingrese sus 6 notas'
+5
+1
+11
+a,b,c,d,e,f
+6
+1
+5
+prome
+15
+(a+b+c+d+e+f)/6
+4
+1
+51
+'el promedio de las 6 notas ingresadas es: ', prome
+1
